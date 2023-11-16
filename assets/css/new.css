@@ -1,0 +1,70 @@
+.side-bar-name h3 {
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.233);
+    padding: 1vmax 0;
+}
+
+
+
+.home-select select {
+    width: 100%;
+    padding: 1vmax;
+    border: none;
+    background-color: #FF5914;
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+    border-radius: 10px;
+    outline: none;
+}
+
+.home-select button {
+    width: 100%;
+    padding: 1vmax;
+    border: none;
+    background-color: #F4AB55;
+    color: white;
+    font-weight: 500;
+    border-radius: 10px;
+    outline: none;
+}
+
+.home-select button:hover {
+    color: white;
+}
+
+.home-select select option {
+    background-color: white;
+    color: black;
+}
+
+
+
+
+#home-select2 select {
+    background-color: #FF4961;
+}
+
+#home-select3 select {
+    background-color: #606C72;
+}
+
+.modal-dialog {
+    background-color: red;
+}
+#green1{
+    background-color: green;
+}
+
+.chek-box input{
+    height: 1.5vmax;
+    width: 1.5vmax;
+}
+.chek-box label{
+    font-size: 20px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
